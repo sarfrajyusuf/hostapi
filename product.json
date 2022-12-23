@@ -1,0 +1,114 @@
+[
+  {
+    "name": "iphone se",
+    "price": 15000,
+    "featured": false,
+    "company": "Apple",
+    "rating": 4.3
+  },
+  {
+    "name": "iphone 6",
+    "price": 15000,
+    "featured": false,
+    "company": "Apple",
+    "rating": 4.2
+  },
+  {
+    "name": "iphone 7",
+    "price": 155000,
+    "featured": false,
+    "company": "Apple",
+    "rating": 4.1
+  },
+  {
+    "name": "iphone 8",
+    "price": 75000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.1
+  },
+  {
+    "name": "iphone 9",
+    "price": 76000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.1
+  },
+  {
+    "name": "iphone 10",
+    "price": 60000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.1
+  },
+  {
+    "name": "iphone 11",
+    "price": 40000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.1
+  },
+  {
+    "name": "lumia",
+    "price": 15550,
+    "featured": true,
+    "company": "Nokia",
+    "rating": 4.2
+  },
+  {
+    "name": "s3 neo",
+    "price": 152000,
+    "featured": true,
+    "company": "Samsung",
+    "rating": 4.5
+  },
+  {
+    "name": "iphone 12 pro",
+    "price": 90000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.5
+  },
+  {
+    "name": "iphone 12pro max",
+    "price": 150000,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.5
+  },
+  {
+    "name": "redmi 6",
+    "price": 75000,
+    "featured": true,
+    "company": "Mi",
+    "rating": 4.0
+  },
+  {
+    "name": "redmi note 8 pro",
+    "price": 70000,
+    "featured": true,
+    "company": "Mi",
+    "rating": 4.1
+  },
+  {
+    "name": "redmi 7",
+    "price": 70000,
+    "featured": true,
+    "company": "Mi",
+    "rating": 4.2
+  },
+  {
+    "name": "redmi 6",
+    "price": 70000,
+    "featured": true,
+    "company": "Mi",
+    "rating": 4.3
+  },
+  {
+    "name": "infinix",
+    "price": 15000,
+    "featured": false,
+    "company": "Mi",
+    "rating": 4.5
+  }
+]
